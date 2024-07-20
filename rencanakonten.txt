@@ -2,6 +2,8 @@ rencana konten saya :
 - javascript 
   #Es6
   #Framwork Javascript
+- php framwork
+  ^Laravel
   ^ view
   ^ react
 - fundamental struktur data
