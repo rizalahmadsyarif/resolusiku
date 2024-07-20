@@ -3,6 +3,7 @@ rencana konten saya :
   #Es6
   #Framwork Javascript
   ^ view
+  ^ react
 - fundamental struktur data
 - php framwork
   ^laravel
