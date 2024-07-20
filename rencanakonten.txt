@@ -1,5 +1,7 @@
 rencana konten saya :
-- javascript
+- javascript 
+  #Es6
+  #Framwork Javascript
 - php framwork
 - interview
 - vlog
