@@ -2,6 +2,6 @@ resolusiku :
 - konsisten belajar Git & Github 2x seminggu
 - membuat platform untuk pengelolaan video
 - membuat forum diskusi
-- membuat artshop
+- membuat vlog
 - kolaborasi dengan lebih banyak expertis
 
