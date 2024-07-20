@@ -2,6 +2,7 @@ rencana konten saya :
 - javascript 
   #Es6
   #Framwork Javascript
+- fundamental struktur data
 - php framwork
 - interview
 - vlog
