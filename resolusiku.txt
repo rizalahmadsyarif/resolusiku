@@ -1,0 +1,5 @@
+resolusiku :
+- konsisten belajar Git & Github 2x seminggu
+- membuat platform untuk pengelolaan video
+- membuat forum diskusi
+
